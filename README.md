@@ -1,16 +1,39 @@
-## Hi there 👋
+🧾 Matheo Lambay — README
+👋 Qui suis-je ?
 
-<!--
-**MatheoLambay/MatheoLambay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Matheo Lambay, designer et développeur passionné
 
-Here are some ideas to get you started:
+Diplômé en bachelier en automatisation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Intéressé par l’électronique, l’interaction homme-machine et le design d’expérience
+
+💻 Ce que je fais
+
+Design d'interfaces (UI/UX)
+
+Conception d’expériences numériques complètes
+
+Développement d'interfaces interactives
+
+Réalisation de projets techniques et créatifs
+
+🛠️ Compétences techniques
+
+Programmation de microcontrôleurs
+
+Langages : Python, C, C++, Ladder, Structured Text (ST), Sequential Function Chart (SFC)
+
+Conception et fabrication de PCB (circuits imprimés)
+
+🧪 Projets
+
+Présentation de projets techniques, créatifs ou combinant design et automation
+
+Description des objectifs, rôle, technologies et visuels de chaque projet
+
+📩 Contact
+
+Formulaire de contact en ligne
+
+Réseaux sociaux : LinkedIn, GitHub, Dribbble
+
